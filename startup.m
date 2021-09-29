@@ -29,5 +29,4 @@ set(groot,'DefaultFigureColor','k')
 
 %% ---- Add these folders to your path -----
 
-addpath('./MATLAB/generalFunctions/');
 
