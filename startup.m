@@ -27,5 +27,7 @@ set(groot,'DefaultLineMarkerSize',15)
 % --- Figure Settings ---
 set(groot,'DefaultFigureColor','k')
 
+%% ---- Add these folders to your path -----
 
+addpath('./MATLAB/generalFunctions/');
 
