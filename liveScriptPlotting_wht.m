@@ -6,7 +6,7 @@
 %% ----- Setting livescript Plot properties -----
 
 % --- Text Settings ---
-set(groot,'DefaultTextColor','w');
+set(groot,'DefaultTextColor','k');
 
 % --- Axes Settings ---
 set(groot,'DefaultAxesColor','w')
